@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kradi.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-28T11:48:34" hostname="NewMacPro.local" time="0.0">
+  <properties/>
+  <testcase name="testSum" classname="com.kradi.calculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

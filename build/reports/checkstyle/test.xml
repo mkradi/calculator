@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/markuskradolfer/Documents/development/jenkins_docker/calculator/src/test/java/com/kradi/calculator/CalculatorApplicationTests.java">
+</file>
+<file name="/Users/markuskradolfer/Documents/development/jenkins_docker/calculator/src/test/java/com/kradi/calculator/CalculatorTest.java">
+</file>
+</checkstyle>

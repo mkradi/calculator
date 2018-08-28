@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/markuskradolfer/Documents/development/jenkins_docker/calculator/src/main/java/com/kradi/calculator/Calculator.java">
+</file>
+<file name="/Users/markuskradolfer/Documents/development/jenkins_docker/calculator/src/main/java/com/kradi/calculator/CalculatorApplication.java">
+</file>
+<file name="/Users/markuskradolfer/Documents/development/jenkins_docker/calculator/src/main/java/com/kradi/calculator/CalculatorController.java">
+</file>
+</checkstyle>

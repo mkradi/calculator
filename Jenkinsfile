@@ -36,6 +36,11 @@ pipeline {
             steps {
                 sh "docker push oahudock99/calculator"
             }
-}
+        }
+        stage("Deploy to staging") {
+            steps {
+                sh "docker run -d --rm -p 8765:8080 --name calculator oahudock99/calculator"
+            }
+        }
      }
 }
